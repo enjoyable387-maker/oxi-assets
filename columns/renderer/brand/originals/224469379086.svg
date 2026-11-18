@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><rect width="1000" height="1000" fill="#0A0A0A"/><rect x="620" width="380" height="1000" fill="#C93A22"/><rect x="72" y="65" width="352" height="63" rx="31" fill="#C93A22"/><text x="96" y="108" fill="#FEFDFB" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="26" font-weight="700" letter-spacing="0">직접 만드는 대표</text><text x="72" y="287" fill="#FEFDFB" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="91" font-weight="800" letter-spacing="-2">모바일</text><text x="72" y="405" fill="#C93A22" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="91" font-weight="800" letter-spacing="-2">다섯 곳</text><g transform="translate(720 145) scale(.72)" opacity=".85"><rect x="54" y="16" width="111" height="190" rx="18" fill="none" stroke="#C93A22" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M83 60h53M83 95h53M83 130h53M95 176h29" fill="none" stroke="#C93A22" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></g><svg x="410" y="327" width="577" height="631" viewBox="-200 -190 400 470"><defs>
+      <pattern id="oxd16" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><circle cx="4.5" cy="4.5" r="2.7" fill="#0A0A0A"/></pattern>
+      <pattern id="oxr16" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(60)"><circle cx="4" cy="4" r="2.4" fill="#C93A22"/></pattern>
+      <linearGradient id="oxf16" x1="0" y1="0" x2="1" y2="1"><stop offset=".45" stop-color="#000"/><stop offset=".95" stop-color="#fff"/></linearGradient>
+      <mask id="oxm16"><polygon points="0,-100 100,0 0,100 -100,0" fill="url(#oxf16)"/></mask>
+    </defs>
+    <ellipse cx="6" cy="236" rx="118" ry="13" fill="url(#oxr16)" style="mix-blend-mode:normal"/>
+    <g transform="rotate(-8)">
+      <path d="M-28 70 C-34 112 -52 150 -72 192" fill="none" stroke="#FEFDFB" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M28 70 C40 112 60 150 74 198" fill="none" stroke="#FEFDFB" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(-68 194) scale(1 1)">
+      <path d="M-20 16 C-22 -14 6 -16 12 2 L40 8 C50 10 52 20 44 22 L-20 22 Z" fill="#0A0A0A" stroke="#FEFDFB" stroke-width="4.5" stroke-linejoin="round"/>
+      <path d="M-24 25 H48" stroke="#FEFDFB" stroke-width="9" stroke-linecap="round"/></g><g transform="translate(78 200) scale(1 1)">
+      <path d="M-20 16 C-22 -14 6 -16 12 2 L40 8 C50 10 52 20 44 22 L-20 22 Z" fill="#0A0A0A" stroke="#FEFDFB" stroke-width="4.5" stroke-linejoin="round"/>
+      <path d="M-24 25 H48" stroke="#FEFDFB" stroke-width="9" stroke-linecap="round"/></g><path d="M-80 -20 C-126 -26 -136 -72 -124 -104" fill="none" stroke="#FEFDFB" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="-124" cy="-112" r="16" fill="#0A0A0A" stroke="#FEFDFB" stroke-width="4.5"/>
+      <polygon points="0,-100 100,0 0,100 -100,0" fill="#0A0A0A"/>
+      <g transform="translate(-7 6)" style="mix-blend-mode:normal">
+        <polygon points="0,-100 100,0 0,100 -100,0" fill="#C93A22"/><g transform="translate(-68 194) scale(1 1)"><path d="M-4 -4 C4 -8 10 -4 12 2 L26 5 L22 20 L-18 20 Z" fill="#C93A22"/></g><g transform="translate(78 200) scale(1 1)"><path d="M-4 -4 C4 -8 10 -4 12 2 L26 5 L22 20 L-18 20 Z" fill="#C93A22"/></g>
+      </g>
+      <rect x="-100" y="-100" width="200" height="200" fill="url(#oxd16)" mask="url(#oxm16)" opacity=".85"/>
+      <polygon points="0,-100 100,0 0,100 -100,0" fill="none" stroke="#FEFDFB" stroke-width="4.5" stroke-linejoin="round"/>
+      <clipPath id="ox16l"><ellipse cx="-27" cy="-8" rx="18" ry="23"/></clipPath>
+      <ellipse cx="-27" cy="-8" rx="18" ry="23" fill="#FEFDFB"/>
+      <circle cx="-24" cy="-10" r="9" fill="#0A0A0A"/>
+      <g clip-path="url(#ox16l)"><rect x="-47" y="-33" width="40" height="6.6000000000000005" fill="#0A0A0A"/></g>
+      <ellipse cx="-27" cy="-8" rx="18" ry="23" fill="none" stroke="#0A0A0A" stroke-width="4.5"/><clipPath id="ox16r"><ellipse cx="27" cy="-8" rx="18" ry="23"/></clipPath>
+      <ellipse cx="27" cy="-8" rx="18" ry="23" fill="#FEFDFB"/>
+      <circle cx="30" cy="-10" r="9" fill="#0A0A0A"/>
+      <g clip-path="url(#ox16r)"><rect x="7" y="-33" width="40" height="6.6000000000000005" fill="#0A0A0A"/></g>
+      <ellipse cx="27" cy="-8" rx="18" ry="23" fill="none" stroke="#0A0A0A" stroke-width="4.5"/><path d="M-15 31 Q2 54 19 31" fill="none" stroke="#0A0A0A" stroke-width="5" stroke-linecap="round"/>
+      <path d="M80 -20 C126 -26 136 -72 124 -104" fill="none" stroke="#FEFDFB" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="124" cy="-112" r="16" fill="#0A0A0A" stroke="#FEFDFB" stroke-width="4.5"/><path d="M112 -128 L108 -146 M126 -132 L130 -150 M138 -122 L152 -134" stroke="#FEFDFB" stroke-width="5" stroke-linecap="round"/>
+      
+    </g></svg><g transform="translate(72 912)"><svg x="0" y="0" width="62" height="21" viewBox="-493.54 0 720.31 226.77" fill="#C93A22"><polygon points="-380.155,0 -266.77,113.385 -380.155,226.77 -493.54,113.385"/><polygon points="-20 51.48 -20 0 -71.48 0 -133.38 61.9 -195.29 0 -246.77 0 -246.77 51.48 -184.86 113.39 -246.77 175.29 -246.77 226.77 -195.29 226.77 -133.38 164.87 -71.48 226.77 -20 226.77 -20 175.29 -81.9 113.39 -20 51.48"/><polygon points="113.41 113.35 226.76 0 0 0 113.38 113.39 0 226.77 226.77 226.77 226.77 226.7 113.41 113.35"/></svg><text x="83" y="21" fill="#FEFDFB" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="24" font-weight="700" letter-spacing="4">OXI STUDIO</text></g><text x="820" y="941" fill="#FEFDFB" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="22" font-weight="700" letter-spacing="0">16 / 21</text></svg>
