@@ -1,0 +1,49 @@
+name: OXI column RSS sync
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - columns-release.zip
+      - .github/workflows/oxi-columns-sync.yml
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: oxi-column-feed
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Install approved column release when changed
+        shell: bash
+        run: |
+          python3 - <<'PYTHON'
+          import hashlib, pathlib, zipfile
+          archive=pathlib.Path('columns-release.zip')
+          digest=hashlib.sha256(archive.read_bytes()).hexdigest()
+          stamp=pathlib.Path('columns/release-sha256.txt')
+          if not stamp.exists() or stamp.read_text().strip()!=digest:
+              with zipfile.ZipFile(archive) as z:
+                  for name in z.namelist():
+                      p=pathlib.PurePosixPath(name)
+                      if p.is_absolute() or '..' in p.parts or p.parts[0]!='columns': raise ValueError('Invalid release path')
+                  z.extractall('.')
+              stamp.write_text(digest+'\n')
+          PYTHON
+      - name: Refresh public Naver RSS archive and matching thumbnails
+        run: python3 columns/sync.py
+      - name: Publish changed public column assets
+        shell: bash
+        run: |
+          git add columns
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'OXI column sync'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Sync OXI public blog columns'
+          git push
