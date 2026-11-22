@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224478216506",
+      "title": "LINE SIGNAL 홈페이지 제작 포트폴리오 | 제조 공정의 흐름을 화면에 옮긴 콘셉트 작업",
+      "summary": "LINE SIGNAL은 OXI STUDIO가 직접 기획·제작한 가상 제조 자동화 브랜드입니다. 실제 고객사나 납품 실적이 있는 기업으로 소개하는 작업이 아닙니다. 제조 분야의 복잡한 설명을 홈페이지에서 어떤 순서로 보여줄지 실험한 콘셉트 프로젝트입니다. 공개 사이트:…",
+      "url": "https://blog.naver.com/oxi_studio/224478216506",
+      "publishedAt": "2026-11-22T20:00:00+09:00",
+      "category": "홈페이지 설계",
+      "sourceCategory": "etc",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224478216506.svg?v=20924170c1c7",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224478213430",
+      "title": "홈페이지 제작을 연결한 마케터, 고객에게 마지막으로 넘길 운영표",
+      "summary": "홈페이지 제작을 연결한 마케터가 작업 완료만 보고하면 고객은 이후 누가 사진을 고치고 문의를 확인하는지 모를 수 있습니다. 제작 완료와 운영 인계는 다른 일입니다. 공개 URL과 확인 날짜, 문의 수신 담당, 수정 요청 경로, 측정 도구의 접근 권한을 한 표에 모으세요. 맡지…",
+      "url": "https://blog.naver.com/oxi_studio/224478213430",
+      "publishedAt": "2026-11-22T18:00:00+09:00",
+      "category": "운영·관리",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224478213430.svg?v=8e05aeb0d932",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224478213202",
       "title": "홈페이지 오픈 뒤 수정 요청, 어디로 보내고 무엇을 적어야 하나요",
       "summary": "홈페이지가 공개된 뒤 사진 교체나 문구 수정이 필요해질 수 있습니다. 요청 경로와 필요한 정보를 모르면 작은 수정도 여러 번 설명하게 됩니다. 제작사에 수정 요청을 보낼 채널, 화면 위치, 바꿀 내용, 새 자료, 확인 담당자를 정해 두세요. 유상 여부와 처리 기간은 계약…",
@@ -760,7 +782,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-22T06:30:19.698655+00:00",
+  "lastSuccess": "2026-11-22T14:51:23.035090+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
