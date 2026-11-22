@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224478213202",
+      "title": "홈페이지 오픈 뒤 수정 요청, 어디로 보내고 무엇을 적어야 하나요",
+      "summary": "홈페이지가 공개된 뒤 사진 교체나 문구 수정이 필요해질 수 있습니다. 요청 경로와 필요한 정보를 모르면 작은 수정도 여러 번 설명하게 됩니다. 제작사에 수정 요청을 보낼 채널, 화면 위치, 바꿀 내용, 새 자료, 확인 담당자를 정해 두세요. 유상 여부와 처리 기간은 계약…",
+      "url": "https://blog.naver.com/oxi_studio/224478213202",
+      "publishedAt": "2026-11-22T13:00:00+09:00",
+      "category": "운영·관리",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224478213202.svg?v=f725e665ff0f",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224478212929",
+      "title": "직접 만든 인테리어 홈페이지, 한 달에 한 번 확인할 네 가지",
+      "summary": "홈페이지를 공개한 뒤 방치하면 연락처나 사례 설명이 실제 운영과 달라질 수 있습니다. 매일 모든 화면을 볼 필요는 없지만 정기적으로 확인할 항목은 정해 두는 편이 좋습니다. 상호·서비스 범위, 문의 연결, 최근 사례, 도메인·플랫폼 갱신 위치를 한 달에 한 번 확인하세요…",
+      "url": "https://blog.naver.com/oxi_studio/224478212929",
+      "publishedAt": "2026-11-22T09:00:00+09:00",
+      "category": "제작 전 알아두기",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224478212929.svg?v=803b15e31fe4",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224478212647",
       "title": "모바일 광고를 눌러 도착한 첫 화면, 무엇이 이어져야 할까",
       "summary": "광고 문구가 구체적이어도 모바일 도착 화면에서 그 내용을 찾기 어렵다면 방문자가 다시 탐색해야 합니다. PC 시안만 보고 연결됐다고 판단하지 않습니다. 실제 광고 링크를 휴대폰에서 열어 첫 화면의 제목, 사례 또는 서비스 근거, 다음 행동을 확인하세요. 마케터와 제작사가 같은…",
@@ -738,7 +760,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-21T12:47:03.452588+00:00",
+  "lastSuccess": "2026-11-22T06:30:19.698655+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
