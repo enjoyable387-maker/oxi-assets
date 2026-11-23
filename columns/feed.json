@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224488419947",
+      "title": "랜딩페이지 제작 의뢰 전, 광고 목표를 한 문장으로 적는 법",
+      "summary": "마케터가 랜딩페이지 제작을 연결할 때 '전환이 잘되는 페이지'만 요구하면 제작사는 어떤 행동을 만들지 알기 어렵습니다. 상담 신청, 전화 연결, 사례 확인은 서로 다른 목적입니다. 광고에서 들어온 사람이 누구이며 페이지에서 무엇을 확인하고 어떤 행동을 할지 한 문장으로…",
+      "url": "https://blog.naver.com/oxi_studio/224488419947",
+      "publishedAt": "2026-11-23T21:00:00+09:00",
+      "category": "홈페이지 설계",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488419947.svg?v=bf65e00c7d2f",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224488407718",
+      "title": "홈페이지 제작 업체 비교, 디자인 시안보다 먼저 볼 작업 범위표",
+      "summary": "홈페이지 제작 업체 두 곳의 디자인 시안이 마음에 들어도 견적에 들어 있는 작업은 다를 수 있습니다. 인테리어 홈페이지는 사례 입력과 자료 정리 범위가 특히 쉽게 빠집니다. 업체를 비교할 때는 첫 화면 디자인보다 페이지 구성, 시공 사례 최초 입력, 사진·원고 제공자, 수정…",
+      "url": "https://blog.naver.com/oxi_studio/224488407718",
+      "publishedAt": "2026-11-23T19:00:00+09:00",
+      "category": "제작 전 알아두기",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488407718.svg?v=42a637ffdd67",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224488400356",
       "title": "홈페이지 제작, 인스타 게시물에서 가져올 자료와 빼야 할 자료",
       "summary": "인테리어 업체가 홈페이지 제작을 시작할 때 인스타그램에 올린 사진과 글을 그대로 옮기고 싶어질 수 있습니다. 게시물은 작업 기록이지만 홈페이지의 사례 설명과는 목적이 다릅니다. 인스타 게시물에서는 공개 가능한 현장과 사진 원본을 먼저 찾으세요. 캡션은 공사 범위와 공간 용도를…",
@@ -793,7 +815,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-23T09:12:50.772968+00:00",
+  "lastSuccess": "2026-11-23T21:30:48.433544+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
