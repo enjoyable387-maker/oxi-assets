@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224488423720",
+      "title": "홈페이지 제작 비용, 시공 사례 입력이 견적에 들어갔는지 확인",
+      "summary": "홈페이지 제작 비용을 비교할 때 시공 사례 페이지가 포함됐다는 문구만으로 실제 사례 입력까지 포함됐다고 생각하기 쉽습니다. 인테리어 업체는 현장별 사진과 설명의 양이 달라 이 부분을 따로 봐야 합니다. 견적에서 상세 화면의 틀을 만드는 작업과 현장 자료를 처음 입력하는 작업을…",
+      "url": "https://blog.naver.com/oxi_studio/224488423720",
+      "publishedAt": "2026-11-24T13:00:00+09:00",
+      "category": "홈페이지 설계",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488423720.svg?v=fb8cc12a7a5d",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224488422399",
+      "title": "아임웹 홈페이지 제작, 템플릿을 고를 때 시공 사진 비율 확인",
+      "summary": "아임웹 홈페이지 제작을 직접 할 때 템플릿의 색과 글꼴만 보고 고르면 시공 사진에서 문제가 생길 수 있습니다. 가로로 긴 현장 사진이 모바일 카드에서 크게 잘릴 수 있기 때문입니다. 실제 사용할 대표 사진 한 장을 넣고 PC와 모바일에서 각각 확인한 뒤 템플릿을 결정하세요…",
+      "url": "https://blog.naver.com/oxi_studio/224488422399",
+      "publishedAt": "2026-11-24T09:00:00+09:00",
+      "category": "홈페이지 설계",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488422399.svg?v=434694f4c9e2",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224488419947",
       "title": "랜딩페이지 제작 의뢰 전, 광고 목표를 한 문장으로 적는 법",
       "summary": "마케터가 랜딩페이지 제작을 연결할 때 '전환이 잘되는 페이지'만 요구하면 제작사는 어떤 행동을 만들지 알기 어렵습니다. 상담 신청, 전화 연결, 사례 확인은 서로 다른 목적입니다. 광고에서 들어온 사람이 누구이며 페이지에서 무엇을 확인하고 어떤 행동을 할지 한 문장으로…",
@@ -815,7 +837,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-23T21:30:48.433544+00:00",
+  "lastSuccess": "2026-11-24T05:28:59.846371+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
