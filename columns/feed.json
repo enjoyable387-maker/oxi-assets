@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224488427004",
+      "title": "홈페이지 리뉴얼과 광고 운영, 기존 링크를 누가 바꿀지 정하는 표",
+      "summary": "홈페이지 리뉴얼 뒤 마케터가 운영하는 광고만 새 주소로 바꿔도 고객의 플레이스나 SNS 링크가 옛 주소를 가리킬 수 있습니다. 제작사가 새 화면을 공개하는 일과 외부 링크를 바꾸는 일은 다릅니다. 광고, 네이버 플레이스, SNS, QR 코드처럼 링크가 쓰이는 곳을 나열하고…",
+      "url": "https://blog.naver.com/oxi_studio/224488427004",
+      "publishedAt": "2026-11-25T18:00:00+09:00",
+      "category": "운영·관리",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488427004.svg?v=dbe64775b9c5",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224488426259",
+      "title": "홈페이지 제작 업체에 리뉴얼 맡길 때, 기존 주소부터 목록화",
+      "summary": "기존 사이트를 새로 만드는 홈페이지 리뉴얼은 디자인만 바꾸는 일이 아닙니다. 인스타 프로필, 네이버 플레이스, 광고에 연결된 옛 주소가 남아 있을 수 있습니다. 제작 업체에 기존 URL과 사용처를 목록으로 전달하세요. 새 사이트에서 유지할 주소와 바뀌는 주소를 나누고, 공개…",
+      "url": "https://blog.naver.com/oxi_studio/224488426259",
+      "publishedAt": "2026-11-25T13:00:00+09:00",
+      "category": "제작 전 알아두기",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488426259.svg?v=651eca17847e",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224488425437",
       "title": "인테리어 홈페이지 제작, 지역명을 넣기 전에 서비스 범위 확인",
       "summary": "인테리어 홈페이지 제작 중 검색을 의식해 여러 지역명을 첫 화면에 나열할 수 있습니다. 하지만 실제 시공 가능 지역과 다르면 방문자에게 잘못된 정보를 줄 수 있습니다. 지역명은 실제로 상담하고 시공할 수 있는 범위만 적으세요. 본문, 문의 안내, 네이버 플레이스에 서로 다른…",
@@ -859,7 +881,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-25T00:51:24.661878+00:00",
+  "lastSuccess": "2026-11-25T09:17:57.407658+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
