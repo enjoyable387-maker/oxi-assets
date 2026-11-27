@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224488431601",
+      "title": "홈페이지 제작 제안이 보류될 때, 마케터가 확인할 세 가지 이유",
+      "summary": "마케터가 인테리어 고객에게 홈페이지 제작을 제안했는데 결정이 미뤄질 수 있습니다. 보류 이유를 '예산이 없다'고 단정하면 실제 걱정을 놓칩니다. 고객이 당장 필요한 것이 신규 사이트인지, 기존 사이트 수정인지, 광고 도착 화면인지 먼저 확인하세요. 자료 준비와 오픈 뒤 운영…",
+      "url": "https://blog.naver.com/oxi_studio/224488431601",
+      "publishedAt": "2026-11-27T18:00:00+09:00",
+      "category": "제작 전 알아두기",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488431601.svg?v=9a1bedc502f4",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224488430814",
+      "title": "홈페이지 제작 업체에 사례 원고를 맡길 때 확인할 세 가지",
+      "summary": "홈페이지 제작 업체가 시공 사례 원고까지 써 주면 대표님의 시간이 줄 수 있습니다. 다만 제작사는 현장에 직접 참여하지 않았을 수 있어 사진만 보고 공사 범위를 추측해서는 안 됩니다. 사례 원고를 맡길 때는 현장별 확인 자료, 공개 가능 정보, 최종 승인자를 먼저 정하세요…",
+      "url": "https://blog.naver.com/oxi_studio/224488430814",
+      "publishedAt": "2026-11-27T13:00:00+09:00",
+      "category": "제작 전 알아두기",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488430814.svg?v=7d8dbccf331b",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224488430021",
       "title": "홈페이지 제작, 시공 전 사진이 없어도 사례를 쓰는 방법",
       "summary": "홈페이지 제작을 하며 시공 사례마다 '전·후' 사진을 넣어야 한다고 생각할 수 있습니다. 현장에 시공 전 사진이 없다면 억지로 비교 구성을 만들 필요는 없습니다. 완공 사진으로 확인할 수 있는 공간, 실제 맡은 작업 범위, 설계나 시공에서 결정한 내용을 분리해 적으세요…",
@@ -925,7 +947,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-27T03:10:54.108497+00:00",
+  "lastSuccess": "2026-11-27T12:42:10.815517+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
