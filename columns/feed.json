@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "id": "224488434114",
+      "title": "홈페이지 유지보수 요청, 마케터와 제작사가 맡을 일 나누기",
+      "summary": "마케터가 광고를 운영하다가 홈페이지 문구를 바꿔야 할 수 있습니다. 변경 요청을 곧바로 제작사에 보내면 고객이 승인하지 않은 서비스 내용이 공개될 위험이 있습니다. 광고에서 확인된 문제, 고객이 승인할 사실, 제작사가 수정할 화면을 별도 칸에 적으세요. 마케터가 광고 계정의…",
+      "url": "https://blog.naver.com/oxi_studio/224488434114",
+      "publishedAt": "2026-11-28T18:00:00+09:00",
+      "category": "제작 전 알아두기",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488434114.svg?v=3a13e9e66f8e",
+      "coverRatio": "2:1"
+    },
+    {
+      "id": "224488433314",
+      "title": "홈페이지 유지보수 비용, 월 관리와 건별 수정의 차이 확인",
+      "summary": "홈페이지 유지보수 비용을 비교할 때 월 관리료가 있는지 없는지만 보면 실제 작업 범위를 놓칠 수 있습니다. 도메인·플랫폼 이용료와 제작사의 수정 비용도 서로 다른 항목입니다. 월 관리에 포함된 점검과 수정, 건별 요청의 단가 기준, 플랫폼·도메인 비용의 납부자를 분리해…",
+      "url": "https://blog.naver.com/oxi_studio/224488433314",
+      "publishedAt": "2026-11-28T13:00:00+09:00",
+      "category": "운영·관리",
+      "sourceCategory": "홈페이지 제작",
+      "image": "https://raw.githubusercontent.com/enjoyable387-maker/oxi-assets/main/columns/covers/224488433314.svg?v=29325d253aa6",
+      "coverRatio": "2:1"
+    },
+    {
       "id": "224488432487",
       "title": "홈페이지 유지보수, 시공 가능 지역이 바뀌면 함께 고칠 곳",
       "summary": "인테리어 업체의 시공 가능 지역이 바뀌면 홈페이지 한 문장만 고치고 끝내기 쉽습니다. 하지만 메뉴, 사례 설명, 문의 안내, 외부 채널에도 예전 범위가 남아 있을 수 있습니다. 홈페이지 유지보수는 바뀐 사실이 적힌 모든 공개 위치를 찾는 작업입니다. 새 지역을 적기 전에 실제…",
@@ -958,7 +980,7 @@
       "coverRatio": "2:1"
     }
   ],
-  "lastSuccess": "2026-11-28T03:35:04.593561+00:00",
+  "lastSuccess": "2026-11-28T12:16:43.377862+00:00",
   "sourceCount": 50,
   "status": "live",
   "refreshSeconds": 900
